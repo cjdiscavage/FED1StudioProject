@@ -67,11 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Contact.html" />
-    <Content Include="stylesheets\Index_Styling.css" />
-    <Content Include="Team.html" />
-    <Content Include="Classes.html" />
+    <Content Include="contact.html" />
+    <Content Include="images\logo.png" />
+    <Content Include="scripts\JavaScript.js" />
+    <Content Include="stylesheets\page_styling.css" />
+    <Content Include="team.html" />
+    <Content Include="classes.html" />
     <Content Include="index.html" />
+    <Content Include="tempheader.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -86,10 +89,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="images\" />
-    <Folder Include="scripts\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
