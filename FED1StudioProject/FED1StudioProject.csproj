@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="contact.html" />
     <Content Include="images\logo.png" />
+    <Content Include="images\placeholder rectangle.png" />
+    <Content Include="images\placeholder square.png" />
     <Content Include="scripts\JavaScript.js" />
     <Content Include="stylesheets\page_styling.css" />
     <Content Include="team.html" />
