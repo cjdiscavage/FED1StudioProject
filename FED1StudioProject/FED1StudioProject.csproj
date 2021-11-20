@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="contact.html" />
+    <Content Include="favicon.ico" />
+    <Content Include="images\background.jpg" />
     <Content Include="images\logo.png" />
     <Content Include="images\placeholder rectangle.png" />
     <Content Include="images\placeholder square.png" />
