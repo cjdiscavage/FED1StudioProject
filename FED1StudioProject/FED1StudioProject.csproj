@@ -71,6 +71,7 @@
     <Content Include="favicon.ico" />
     <Content Include="images\background.jpg" />
     <Content Include="images\logo.png" />
+    <Content Include="images\person-placeholder.jpg" />
     <Content Include="images\placeholder rectangle.png" />
     <Content Include="images\placeholder square.png" />
     <Content Include="scripts\JavaScript.js" />
