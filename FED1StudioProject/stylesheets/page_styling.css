@@ -139,3 +139,101 @@ body {
     margin: auto;
     width: 47.5%;
 }
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    grid-auto-rows: minmax(300px, auto);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.one {
+    grid-column: 1;
+    grid-row: 1;
+    background-color: darkgray;
+}
+
+.two {
+    grid-column: 2;
+    grid-row: 1;
+    background-color: darkgray;
+}
+
+.three {
+    grid-column: 3;
+    grid-row: 1;
+    background-color: darkgray;
+}
+
+.four {
+    grid-column: 1;
+    grid-row: 2;
+    background-color: darkgray;
+}
+
+.five {
+    grid-column: 2;
+    grid-row: 2;
+    background-color: darkgray;
+}
+
+.six {
+    grid-column: 3;
+    grid-row: 2;
+    background-color: darkgray;
+}
+
+.classText {
+    margin: 25px;
+    font-size: larger;
+}
+
+.tg {
+    width: 85%;
+    margin: 30px 100px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+
+    .tg .tg-0lax {
+        text-align: left;
+        vertical-align: top
+    }
+
+tr {
+    background-color: #ffffff;
+}
+
+tr:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+thead tr {
+    background-color: #f2f2f2;
+}
