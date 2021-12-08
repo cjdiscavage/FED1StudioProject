@@ -70,6 +70,8 @@
     <Content Include="contact.html" />
     <Content Include="favicon.ico" />
     <Content Include="images\background.jpg" />
+    <Content Include="images\code.jpg" />
+    <Content Include="images\indie.jpg" />
     <Content Include="images\logo.png" />
     <Content Include="images\person-placeholder.jpg" />
     <Content Include="images\placeholder rectangle.png" />
@@ -86,6 +88,7 @@
     <Content Include="images\Team7.jpg" />
     <Content Include="images\Team8.jpg" />
     <Content Include="images\Team9.jpg" />
+    <Content Include="images\testing.jpeg" />
     <Content Include="scripts\JavaScript.js" />
     <Content Include="stylesheets\page_styling.css" />
     <Content Include="team.html" />
