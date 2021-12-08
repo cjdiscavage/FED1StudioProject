@@ -71,11 +71,17 @@
     <Content Include="favicon.ico" />
     <Content Include="images\background.jpg" />
     <Content Include="images\code.jpg" />
+    <Content Include="images\crowdfunding.jpg" />
+    <Content Include="images\fanbaseframework.jpg" />
+    <Content Include="images\finishyourgame.png" />
+    <Content Include="images\gamedesignbible.png" />
     <Content Include="images\indie.jpg" />
     <Content Include="images\logo.png" />
     <Content Include="images\person-placeholder.jpg" />
     <Content Include="images\placeholder rectangle.png" />
     <Content Include="images\placeholder square.png" />
+    <Content Include="images\premarketing.png" />
+    <Content Include="images\publishers.jpg" />
     <Content Include="images\Team1.jpg" />
     <Content Include="images\Team10.jpg" />
     <Content Include="images\Team11.jpg" />
